@@ -1,4 +1,4 @@
-# gig
+# mojogroove
 
 ## Project setup
 ```
