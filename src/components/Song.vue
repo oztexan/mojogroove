@@ -1,12 +1,12 @@
 <template>
   <div>
-    <div v-for="t in song.parseResult" v-bind:key="t">
+    <div v-for="(t,ti) in song.parseResult" v-bind:key="ti">
       <div v-if="t.type === 'directive' && t.children.length"
         class='directive' v-bind:class="{hideDirectives: hideDirectives}">
-          <span v-for="c in t.children" v-bind:key="c" v-bind:class="t.value">{{c.value}}</span>
+          <span v-for="(c,ci) in t.children" v-bind:key="ci" v-bind:class="t.value">{{c.value}}</span>
       </div>
       <div v-if="t.type === 'comment' && t.children.length" class='comment'>
-          <span v-for="c in t.children" v-bind:key="c" class="comment">{{c.value}}</span>
+          <span v-for="(c,ci) in t.children" v-bind:key="ci" class="comment">{{c.value}}</span>
       </div>
       <div v-if="t.type === 'chordline' && t.children.length"
         class='chordline' v-bind:class="{hideChords: hideChords}">
@@ -14,7 +14,7 @@
       </div>
       <div v-if="t.type === 'lyricline' && t.children.length"
       class='lyricline'  v-bind:class="{hideLyrics: hideLyrics}">
-          <span v-for="c in t.children" v-bind:key="c" class="lyric">{{c.value}}</span>
+          <span v-for="(c,ci) in t.children" v-bind:key="ci" class="lyric">{{c.value}}</span>
       </div>
     </div>
     <!--pre>{{JSON.stringify(song.parseResult,null,2)}}</pre-->

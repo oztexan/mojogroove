@@ -2,13 +2,13 @@
   <div>
     <v-container grid-list-md text-xs-center>
       <v-expansion-panels>
-        <v-expansion-panel v-for="(s,i) in list" :key="i">
-          <v-expansion-panel-header>{{s}}</v-expansion-panel-header>
+        <v-expansion-panel v-for="(s,i) in setlists" :key="i">
+          <v-expansion-panel-header>{{i}}</v-expansion-panel-header>
           <v-expansion-panel-content>
             <!--div style="font-size:48px" slot="header">{{i+1}}. {{getTitle(s)/* s.parseResult.parsedLines[0][0].directive.value */}}</div-->
             <v-card>
               <v-card-text class="grey lighten-3">
-                <song :song="songs[`./${s}.pro`]" :hideChords="hideChords" :hideLyrics="hideLyrics" :hideDirectives="hideDirectives"></song>
+                <songList :list="s.songs" :songs="songs" :hideChords="hideChords" :hideLyrics="hideLyrics" :hideDirectives="hideDirectives"></songList>
               </v-card-text>
             </v-card>
           </v-expansion-panel-content>
@@ -19,16 +19,16 @@
 </template>
 
 <script>
-import Song from "./Song.vue";
+import SongList from "./SongList.vue";
 
 // import {  } from '../../vuex/getters'
 // import {  } from '../../vuex/actions'
 export default {
   props: {
-    list: {
-      type: Array
-    },
     songs: {
+      type: Object
+    },
+    setlists: {
       type: Object
     },
     hideChords: {
@@ -42,7 +42,7 @@ export default {
     }
   },
   components: {
-    Song
+    SongList
   },
   data() {
     return {};

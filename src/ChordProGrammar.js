@@ -3,8 +3,6 @@ const moo = require('moo');
 const mosttext = /[^#{[|\n]+/;
 const mosttabtext = /[^\n]+/;
 
-
-
 const norm = {
   title: 't',
   subtitle: 'st',

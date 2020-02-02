@@ -12,5 +12,13 @@ module.exports = {
       .loader('./src/ChordProGrammar.js')
       .end()
     // Add another loader
+    // Setlist Loader
+    config.module
+      .rule('setlist')
+      .test(/\.(lst)$/)
+      .use('setlist-loader')
+      .loader('./src/SetListLoader.js')
+      .end()
+    // Add another loader
   }
 }
