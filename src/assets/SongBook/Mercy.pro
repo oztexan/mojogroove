@@ -7,7 +7,7 @@
 {sot}
 | 1 1 5 b7 1 1 | x4
 {eot}
-[Hit the beat and take it to the bass now]
+Hit the beat and take it to the bass now
 
 {c: Verse}
 {sot}

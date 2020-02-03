@@ -191,6 +191,7 @@ const lexer = moo.states({
     */
     chord_end: {
       match: /\]/,
+      //      match: /\][^[\n]*/,  If in Chord sheet format
       pop: true,
       value: () => null
     }
@@ -333,6 +334,7 @@ const parse = (chordpro, transform) => {
         t.type === 'eog' ||
         t.type === 'eoc' ||
         t.type === 'eov') {
+        parent.children.pop();
         pipe.push(parent);
         parents.pop();
         parent = parents.length ? parents[parents.length - 1] : null;
@@ -378,7 +380,7 @@ const parse = (chordpro, transform) => {
     parent = parents.length ? parents[parents.length - 1] : null;
   }
 
-  return pipe;
+  return { pipe: pipe, valuetokens: valuetokens };
 };
 
 const css = `
@@ -403,9 +405,11 @@ const css = `
 
 
 module.exports = function (source) {
+  const p = parse(source);
   const value = {
-    html: css + parse(source, html).join('\n'),
-    parseResult: parse(source)
+    html: css + parse(source, html).pipe.join('\n'),
+    parseResult: p.pipe,
+    valueTokens: p.valuetokens
   };
 
   return `module.exports = ${JSON.stringify(value)}`;

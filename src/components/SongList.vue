@@ -1,20 +1,21 @@
 <template>
   <div>
-    <v-container grid-list-md text-xs-center>
-      <v-expansion-panels>
-        <v-expansion-panel v-for="(s,i) in list" :key="i">
-          <v-expansion-panel-header>{{s}}</v-expansion-panel-header>
+    <!--pre>
+      {{this.lowerSongs}}
+    </pre-->
+    <v-row align="center">
+        <v-expansion-panels 
+          accordion
+          inset
+          focusable>
+        <v-expansion-panel v-for="(s,i) in lowerSongs" :key="i">
+          <v-expansion-panel-header style="text-transform: capitalize"><h3>{{i+1}}. {{s}}</h3></v-expansion-panel-header>
           <v-expansion-panel-content>
-            <!--div style="font-size:48px" slot="header">{{i+1}}. {{getTitle(s)/* s.parseResult.parsedLines[0][0].directive.value */}}</div-->
-            <v-card>
-              <v-card-text class="grey lighten-3">
-                <song :song="songs[`./${s}.pro`]" :hideChords="hideChords" :hideLyrics="hideLyrics" :hideDirectives="hideDirectives"></song>
-              </v-card-text>
-            </v-card>
+            <song :song="songs[s]" :hideChords="hideChords" :hideLyrics="hideLyrics" :hideDirectives="hideDirectives"></song>
           </v-expansion-panel-content>
         </v-expansion-panel>
       </v-expansion-panels>
-    </v-container>
+    </v-row>
   </div>
 </template>
 
@@ -47,6 +48,11 @@ export default {
   data() {
     return {};
   },
+  computed: {
+    lowerSongs: function() {
+      return this.list.map(e => e.toLowerCase());
+    }
+  },
   methods: {
     getTitle: function(s) {
       const title = s.parseResult.find(e => {
@@ -59,7 +65,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .song-title {
   font-size: x-large;
   font-weight: bold;

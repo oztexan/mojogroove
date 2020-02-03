@@ -1,20 +1,18 @@
 <template>
   <div>
-    <v-container grid-list-md text-xs-center>
-      <v-expansion-panels>
-        <v-expansion-panel v-for="(s,i) in setlists" :key="i">
-          <v-expansion-panel-header>{{i}}</v-expansion-panel-header>
+    <v-row align="center">
+      <v-expansion-panels  
+      :accordion=true
+      :popout=true
+      :focusable=true >
+        <v-expansion-panel v-for="(s,i) in sortedSetLists" :key="i">
+          <v-expansion-panel-header style="text-transform: capitalize"><h2>{{s}}</h2></v-expansion-panel-header>
           <v-expansion-panel-content>
-            <!--div style="font-size:48px" slot="header">{{i+1}}. {{getTitle(s)/* s.parseResult.parsedLines[0][0].directive.value */}}</div-->
-            <v-card>
-              <v-card-text class="grey lighten-3">
-                <songList :list="s.songs" :songs="songs" :hideChords="hideChords" :hideLyrics="hideLyrics" :hideDirectives="hideDirectives"></songList>
-              </v-card-text>
-            </v-card>
+            <songList :list="setlists[s].songs" :songs="songs" :hideChords="hideChords" :hideLyrics="hideLyrics" :hideDirectives="hideDirectives"></songList>
           </v-expansion-panel-content>
         </v-expansion-panel>
       </v-expansion-panels>
-    </v-container>
+    </v-row>
   </div>
 </template>
 
@@ -47,6 +45,13 @@ export default {
   data() {
     return {};
   },
+  computed: {
+    sortedSetLists: function() {
+      return Object.keys(this.setlists).sort(
+        (a, b) => parseInt(b) - parseInt(a)
+      );
+    }
+  },
   methods: {
     getTitle: function(s) {
       const title = s.parseResult.find(e => {
@@ -59,7 +64,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .song-title {
   font-size: x-large;
   font-weight: bold;
