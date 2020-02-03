@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div v-if="show">
     <v-switch color="green" v-model="debug" label="Debug">hello</v-switch>
     <pre v-if="debug">
       {{song.parseResult}}
@@ -8,7 +8,7 @@
       <div v-if="t.type === 'directive' && t.value === 'c' && t.children.length && !hideDirectives">
           <span v-for="(c,ci) in t.children" v-bind:key="ci" class='directive' >{{c.value}}</span>
       </div>
-      <pre v-if="t.type === 'sot' && t.children.length">
+      <pre v-if="t.type === 'sot' && t.children.length && !hideChords">
           <p v-for="(c,ci) in t.children" :key="ci">{{c.value}}</p>
       </pre>
       <div v-if="t.type === 'comment' && t.children.length">
@@ -49,6 +49,9 @@ export default {
       validator: function(value) {
         return value.html && value.parseResult;
       }
+    },
+    show: {
+      type: Boolean
     },
     hideChords: {
       type: Boolean

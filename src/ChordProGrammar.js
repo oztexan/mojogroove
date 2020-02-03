@@ -412,7 +412,7 @@ module.exports = function (source) {
     valueTokens: p.valuetokens
   };
 
-  return `module.exports = ${JSON.stringify(value)}`;
+  return value;
 }
 /*
 module.exports = (source) => {

@@ -1,78 +1,76 @@
+
 {t: Wrecking Ball}
-{st: Miley Cyrus}
+{st: Milly Cyrus}
 
-Bm    x24432
-D     xx0232
-A     x02220
-Em    022000
-G     320033
-F#m   244222
+#Capo 3rd
 
-[Verse I]
-    [Dm]                     [F]
-We clawed, we chained our hearts in vain
-    [C]               [Bb]
-We jumped, never asking why
-We kissed, I fell under your spell
-A love no one could deny
+{c: Verse}
 
-[Pre-Chorus]
-[Bb]                  [Dm]
-Don’t you ever say I just walked away
-[F]               [Bb]
-I will always want you
-I can’t live a lie, running for my life
-I will always want you
+We [Bm]clawed, we chained, our he[D]arts in vain
+We jum[A]ped, never askin[G]g why
+[Bm]We kissed, I fell und[D]er your spell
+A l[A]ove no one [G]could deny
 
-[Ebhorus]
-                  [F]           [C]
-I came in like a wrecking ball
-               [Dm]          [Bb]             
-I never hit so hard in love
-All I wanted was to break your walls
-All you ever did was  wreck me
-Yeah, you wreck me
+[Bm]Dont you ever say [D]I just walked away
+[A]I will always want[G] you
+[Bm]I cant live a lie, r[D]unning for my life
+[A]I will always w[G]ant you
 
-[Verse II]
-I put you high up in the sky
-And now, you’re not coming down
-It slowly turned, you let me burn
-And now, we’re ashes on the ground
+{c: Chorus}
 
-[Pre-Chorus]
-Don’t you ever say I just walked away
-I will always want you
-I can’t live a lie, running for my life
-I will always want you
+I came in like a [D]wrecking ball[A]
+I never hit so [Bm]hard in [G]love
+All I wanted was to [D]break your [A]walls
+All you ever did was [Bm]break [G]me
+Yeah, [Bm]you wreck [G]me
 
-[Ebhorus]
-I came in like a wrecking ball
-I never hit so hard in love
-All I wanted was to break your walls
-All you ever did was  wreck me
-I came in like a wrecking ball
-Yeah, I just closed my eyes and swung
-Left me crouching in a blaze and fall
-All you ever did was  wreck me
-Yeah, you wreck me
+{c: Verse}
 
-[Dridge]
-I never meant to start a war
-I just wanted you to let me in
-And instead of using force
-I guess I should’ve let you in
-I never meant to start a war
-I just wanted you to let me in
-I guess I should’ve let you in
-Don’t you ever say I just walked away
-I will always want you
+I [Bm]put you high up [D]in the sky
+And n[A]ow, youre not coming[G] down
+It [Bm]slowly turned, you l[D]et me burn
+And [A]now, we’re ashes on the g[G]round
 
-I came in like a wrecking ball
-I never hit so hard in love
-All I wanted was to break your walls
-All you ever did was  wreck me
-I came in like a wrecking ball
-Yeah, I just closed my eyes and swung
-Left me crouching in a blaze and fall
-All you ever did was  wreck me
-Yeah, you wreck me
+[Bm]Dont you ever say [D]I just walked away
+[A]I will always want[G] you
+[Bm]I cant live a lie, r[D]unning for my life
+[A]I will always w[G]ant you
+
+{c: Chorus}
+
+I came in like a [D]wrecking ball[A]
+I never hit so [Bm]hard in [G]love
+All I wanted was to [D]break your [A]walls
+All you ever did was [Bm]break [G]me
+Yeah, [Bm]you wreck [G]me
+
+I came in like a [D]wrecking ball[A]
+I never hit so [Bm]hard in [G]love
+All I wanted was to [D]break your [A]walls
+All you ever did was [Bm]break [G]me
+Yeah, [Bm]you wreck [G]me
+
+{c: Bridge}
+
+I never meant to start a w[Bm]ar
+I just wanted you to let me in[D]
+And instead of using force[F#m]
+I guess I should’ve let you[G] in
+I never meant to start a war[Bm]
+I just wanted you to let me in[D]
+I guess I should’ve let you[F#m] in
+
+[Bm]Dont you ever say I just walked a[D]way
+[A]I will always want you[G]
+
+{c: Chorus}
+
+I came in like a [D]wrecking ball[A]
+I never hit so [Bm]hard in [G]love
+All I wanted was to [D]break your [A]walls
+All you ever did was [Bm]break [G]me
+I came in like a w[D]recking ball[A]
+Yeah, I just closed my [Bm]eyes and swung[G]
+Left me crouchi[D]ng in a blaze and fall[A]
+All you ever did was  break me[Bm][G]
+Yeah, you w[Bm]reck me[G]

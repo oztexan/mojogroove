@@ -9,9 +9,15 @@ module.exports = {
       .rule('chordpro')
       .test(/\.(pro|cho|chordpro)$/)
       .use('chordpro-loader')
-      .loader('./src/ChordProGrammar.js')
+      .loader('./src/ChordProLoader.js')
       .end()
-    // Add another loader
+    // Chord Sheet Loader
+    config.module
+      .rule('chordsheet')
+      .test(/\.(txt)$/)
+      .use('chordsheet-loader')
+      .loader('./src/ChordSheetLoader.js')
+      .end()
     // Setlist Loader
     config.module
       .rule('setlist')

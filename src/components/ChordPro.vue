@@ -4,9 +4,9 @@
         <v-col cols="12" md="6">
           <v-textarea
             filled
-            name="Chord Sheet Input"
-            label="Chord Sheet Input"
-            hint="Input Chord Sheet Song"
+            name="Chord Pro Input"
+            label="Chord Pro Input"
+            hint="Edit Chord Pro Song"
             v-model="chordsheet"
             auto-grow
             clearable
@@ -15,15 +15,7 @@
           ></v-textarea>
         </v-col>
         <v-col cols="12" md="6">
-          <v-textarea
-            filled
-            name="Chordpro Output"
-            label="Chordpro Output"
-            v-model="chordpro"
-            auto-grow
-            readonly
-            solo
-          ></v-textarea>
+          <song :show=true :song="song" :hideChords="hideChords" :hideLyrics="hideLyrics" :hideDirectives="hideDirectives"></song>
         </v-col>
       </v-row>
     </v-container>
@@ -31,10 +23,15 @@
 </template>
 
 <script>
-import csg from "../ChordSheetGrammar";
+import cpg from "../ChordProGrammar";
+import Song from "./Song.vue";
 // import {  } from '../../vuex/getters'
 // import {  } from '../../vuex/actions'
 export default {
+  components: {
+    Song
+  },
+
   /*
   vuex: {
         getters: {
@@ -52,10 +49,20 @@ export default {
       chordsheet: ""
     };
   },
-  props: {},
+  props: {
+    hideChords: {
+      type: Boolean
+    },
+    hideLyrics: {
+      type: Boolean
+    },
+    hideDirectives: {
+      type: Boolean
+    }
+  },
   computed: {
-    chordpro: function() {
-      return csg(this.chordsheet);
+    song: function() {
+      return cpg(this.chordsheet);
     }
   },
   methods: {}

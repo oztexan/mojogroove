@@ -1,17 +1,15 @@
 {t:Ive Got You On My Mind}
 {st:Powderfinger}
 
-Intro
+{c: Intro}
 Both Guitars:
     
 [A#][A#][A#][A#][A#]/ X4
 
-Verse
+{c: Verse}
 [A#][G#][D#]
 
-Chorus
-
-
+{c: Verse}
 [A#]                      [G#]               [D#]
 Baby I've got you on my mind, honey you won't ever know
 [A#]                      [G#]               [D#]
@@ -20,7 +18,7 @@ How much I need you by my side, promise you won't ever go
 I won't take no from you this time
 [A#]                     [G#]               [D#]
 Baby I've got you on my mind                ya honey I've got to show 
-
+{c: Pre Chorus}
 [G#]/[A#]
 (I won't wait for another day)Just what I can do 
 [G#]/[A#]
@@ -29,14 +27,14 @@ Baby I've got you on my mind                ya honey I've got to show
 (I won't wait for another day) What you are going through 
 [C#]/[D#]
 (My heart died when you loosed the chains)
-
+{c:Chorus}
   [F]                  [D#]             [C#]                 [F]
 I hope you feel it the way I feel it, I hope you feel it the way I feel it too.
 
-Pre Verse : [A#] [G#][D#]
+{c: Pre Verse }: [A#] [G#][D#]
 (SOLO-Hammer 6th fret high 2 strings, bend G string 8th fret to match)
 
-
+{c: Verse}
 [A#]                      [G#]               [D#]
 So if I had this all my way, honey you won't ever know
 [A#]                                  [G#]               [D#]
@@ -45,7 +43,7 @@ I'd be there through every night and day, promise you won't ever go
 I won't hold back from you this time
 [A#]                    [G#]           [D#]
 Baby I've got you on my mind           ya honey I've got to show 
-
+{c: Pre Chorus}
 [G#]/[A#]
 (I won't wait for another day) Just what I can do 
 [G#]/[A#]
@@ -54,12 +52,12 @@ Baby I've got you on my mind           ya honey I've got to show
 (I won't wait for another day) What you are going through 
 [C#]/[D#]
 (My heart died when you loosed the chains)
-
+{c:Chorus}
   [F]                  [D#]             [C#]                 [F]           [D#]
 I hope you feel it the way I feel it, I hope you feel it the way I feel it too.
-
+{c: Pre Verse}
 4 empty bars
-
+{c: Break}
 [A#][A#][A#][A#][A#]
 'Cause baby, I've got you on my mind
 [A#][A#][A#][A#][A#]
@@ -68,14 +66,13 @@ I won't take no from you this time
 How much I need from your side
 [A#][A#][A#][A#][A#]
 'Cause baby, I've got you on my mind
-
-
+{c: Solo}
 (SOLO-Hammer 6th fret high 2 strings, bend G string 8th fret to match)
 
 ya on my mind 
 
 I tell you 
-
+{c: Pre Chorus}
 [A#]                         
 I won't wait for another day
 [G#]                   [D#]
@@ -84,7 +81,7 @@ My heart died when you loosed the chains
 I won't wait for another day
 [G#]                   [D#]
 My heart died when you loosed the chains
-
+{c: Outro}
 [A#]                             [G#]                   [D#]
 I've got you, I've got you on my mind
 I won't wait for another day     My heart died when you loosed the chains
