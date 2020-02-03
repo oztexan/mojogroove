@@ -1,27 +1,16 @@
 
-{a: The Bee Gees}
+{st: The Bee Gees}
 {t: Stayin'[A]live}
-(Barry, Robin &amp; Maurice Gibb)
+{key: Fm}
+#capo: 1st fret
 
-From: "Saturday Night Fever - The Original Movie Sound Track"
-
-The recording is somewhere between F and F#.
-
----------------------------------------------------------------------------
-
-capo: 1st fret
-play: [Em]
-key: Fm
-
----------------------------------------------------------------------------
-
-
-INTRO
+{c: Intro}
+{sot}
 | [[Em]] | % | [A] | % |
 | [[Em]] | % |
+{eot}
 
-
-VERSE
+{c: VERSE}
               [Em]
 Well, you can tell by the way I use my walk
      [D]              [Em]
@@ -32,15 +21,15 @@ Music loud and women warm
 I've been kicked around since I was born
             [A]
 But now it's all right, that's okay
-A
+[A]
 You may look the other way
-A
+[A]
 We can try to understand
    [A]
 The New York Times' effect on man
 
 
-CHORUS
+{c: CHORUS}
 [Em]
 Whether you're a brother or whether you're a mother
        [Em]
@@ -58,7 +47,7 @@ Ah, ah, ah, ah, stayin' ali-i-i-i --- ive
 Oh, when you walk
 
 
-VERSE
+{c: VERSE}
           [Em]
 Well, now I get low and I get high
         [D]                  [Em]
@@ -77,7 +66,7 @@ We can try to understand
 The New York Times' effect on man
 
 
-CHORUS
+{c: CHORUS}
 [Em]
 Whether you're a brother or whether you're a mother
        [Em]
@@ -95,7 +84,7 @@ Ah, ah, ah, ah, stayin' ali-i-i-i --- ive
 Oooooh
 
 
-MIDDLE 8
+{c: MIDDLE 8}
 [A]
  Life goin' nowhere, somebody help me
                    [ [Em] | % | 
@@ -106,7 +95,7 @@ Somebody help me, yeah
    I'm stayin' alive
 
 
-VERSE
+{c: VERSE}
           [Em]
 Well, you can tell by the way I use my walk
      [D]              [Em]
@@ -125,7 +114,7 @@ We can try to understand
 The New York Times' effect on man
 
 
-CHORUS
+{c: CHORUS}
 [Em]
 Whether you're a brother or whether you're a mother
        [Em]
@@ -143,7 +132,7 @@ Ah, ah, ah, ah, stayin' ali-i-i-i --- ive
 Yeah
 
 
-CODA
+{c: CODA}
 [A]
  Life goin' nowhere, somebody help me
                    [ [Em] | % | 
@@ -182,7 +171,7 @@ I'm stayin' ali-i-i-i-ive
 
 (repeat and fade)
 
-
+{sot}
 LICK
   [Em]
   1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
@@ -193,5 +182,4 @@ D|---5------------|-------------5--|---5------------|-------------5--|
 A|5h7---5--------5|---5------5-7---|5h7---5--------5|---5------5-7---|
 E|----------7-5h7-|5h7---5h7-------|----------7-5h7-|5h7---5h7-------|
 
----------------------------------------------------------------------------
-
+{eot}
