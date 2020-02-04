@@ -11,7 +11,6 @@
             auto-grow
             clearable
             solo
-            height=700
           ></v-textarea>
         </v-col>
         <v-col cols="12" md="6">
@@ -52,7 +51,11 @@ export default {
       chordsheet: ""
     };
   },
-  props: {},
+  props: {
+    state: {
+      type: Object
+    }
+  },
   computed: {
     chordpro: function() {
       return csg(this.chordsheet);

@@ -7,15 +7,14 @@
             name="Chord Pro Input"
             label="Chord Pro Input"
             hint="Edit Chord Pro Song"
-            v-model="chordsheet"
+            v-model="chordpro"
             auto-grow
             clearable
             solo
-            height=700
           ></v-textarea>
         </v-col>
         <v-col cols="12" md="6">
-          <song :show=true :song="song" :hideChords="hideChords" :hideLyrics="hideLyrics" :hideDirectives="hideDirectives"></song>
+          <song :show=true :song="song" :state="state"></song>
         </v-col>
       </v-row>
     </v-container>
@@ -46,26 +45,19 @@ export default {
   */
   data() {
     return {
-      chordsheet: ""
+      chordpro: ""
     };
   },
   props: {
-    hideChords: {
-      type: Boolean
-    },
-    hideLyrics: {
-      type: Boolean
-    },
-    hideDirectives: {
-      type: Boolean
+    state: {
+      type: Object
     }
   },
   computed: {
     song: function() {
-      return cpg(this.chordsheet);
+      return cpg(this.chordpro);
     }
-  },
-  methods: {}
+  }
   /*
   watch: {
   },

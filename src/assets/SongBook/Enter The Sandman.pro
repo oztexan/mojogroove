@@ -1,8 +1,8 @@
+
 {t: Enter The Sandman}
 {st: Metallica}
 
 {c: Verse}
-
 Say your prayers, little one
 Don't forget, my son
 To include everyone
@@ -14,7 +14,6 @@ Keep you free from sin
 Till the sandman comes
 
 {c: Bridge}
-
 Sleep with one eye open
 Gripping your pillow tight
 
@@ -38,7 +37,6 @@ Dreams of dragon's fire
 And of things that will bite, yeah!
 
 {c: Bridge}
-
 Sleep with one eye open
 Gripping you pillow tight
 

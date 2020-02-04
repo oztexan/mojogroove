@@ -2,13 +2,14 @@
   <div>
     <v-row align="center">
       <v-expansion-panels  
-      :accordion=true
-      :popout=true
-      :focusable=true >
+      accordion
+      popout
+      focusable 
+    >
         <v-expansion-panel v-for="(s,i) in sortedSetLists" :key="i">
           <v-expansion-panel-header style="text-transform: capitalize"><h2>{{s}}</h2></v-expansion-panel-header>
           <v-expansion-panel-content>
-            <songList :list="setlists[s].songs" :songs="songs" :hideChords="hideChords" :hideLyrics="hideLyrics" :hideDirectives="hideDirectives"></songList>
+            <songList :list="state.setlists[s].songs" :state="state"></songList>
           </v-expansion-panel-content>
         </v-expansion-panel>
       </v-expansion-panels>
@@ -23,20 +24,8 @@ import SongList from "./SongList.vue";
 // import {  } from '../../vuex/actions'
 export default {
   props: {
-    songs: {
+    state: {
       type: Object
-    },
-    setlists: {
-      type: Object
-    },
-    hideChords: {
-      type: Boolean
-    },
-    hideLyrics: {
-      type: Boolean
-    },
-    hideDirectives: {
-      type: Boolean
     }
   },
   components: {
@@ -47,7 +36,7 @@ export default {
   },
   computed: {
     sortedSetLists: function() {
-      return Object.keys(this.setlists).sort(
+      return Object.keys(this.state.setlists).sort(
         (a, b) => parseInt(b) - parseInt(a)
       );
     }

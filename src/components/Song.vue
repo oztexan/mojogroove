@@ -1,28 +1,27 @@
 <template>
   <div v-if="show">
-    <v-switch color="green" v-model="debug" label="Debug">hello</v-switch>
-    <pre v-if="debug">
-      {{song.parseResult}}
-    </pre>
     <div v-for="(t,ti) in song.parseResult" :key="ti">
-      <div v-if="t.type === 'directive' && t.value === 'c' && t.children.length && !hideDirectives">
-          <span v-for="(c,ci) in t.children" v-bind:key="ci" class='directive' >{{c.value}}</span>
+      <div v-if="t.type === 'directive' && t.value === 'c' && t.children.length && state.showDirectives" class='directiveline'>
+          <span v-for="(c,ci) in t.children" :key="ci" class='directive' >{{c.value}}</span>
       </div>
-      <pre v-if="t.type === 'sot' && t.children.length && !hideChords">
+      <pre v-if="t.type === 'sot' && t.children.length && state.showChords">
           <p v-for="(c,ci) in t.children" :key="ci">{{c.value}}</p>
       </pre>
       <div v-if="t.type === 'comment' && t.children.length">
           <span v-for="(c,ci) in t.children" :key="ci" class="comment">{{c.value}}</span>
       </div>
-      <div v-if="t.type === 'chordline' && t.children.length && !hideChords"
+      <div v-if="t.type === 'chordline' && t.children.length && state.showChords"
         class='chordline'>
           <span class="chord">{{fatten(t)}}</span>
       </div>
-      <div v-if="t.type === 'lyricline' && t.children.reduce((a,cv) => a.concat(cv.value),'').trim().length>0 && !hideLyrics"
+      <div v-if="t.type === 'lyricline' && t.children.reduce((a,cv) => a.concat(cv.value),'').trim().length>0 && state.showLyrics"
       class='lyricline'>
-          <span v-for="(c,ci) in t.children" v-bind:key="ci" class="lyric">{{c.value}}</span>
+          <span v-for="(c,ci) in t.children" :key="ci" class="lyric">{{c.value}}</span>
       </div>
     </div>
+    <pre v-if="state.showDebug">
+      {{song.parseResult}}
+    </pre>
     <!--pre>{{JSON.stringify(song.parseResult,null,2)}}</pre-->
   </div>
 </template>
@@ -53,31 +52,23 @@ export default {
     show: {
       type: Boolean
     },
-    hideChords: {
-      type: Boolean
-    },
-    hideLyrics: {
-      type: Boolean
-    },
-    hideDirectives: {
-      type: Boolean
+    state: {
+      type: Object
     }
   },
-  data() {
-    return {
-      debug: false
-    };
-  },
   methods: {
-    fatten: t => {
-      let cursor = 0;
+    fatten: function(t) {
+      //position is base base 1
       let line = "";
+      let braces = 2;
       if (t.children && t.children.length) {
-        t.children.forEach(c => {
-          const dt = c.col - cursor;
-          if (dt > 0) {
-            line += " ".repeat(dt - 1) + c.value;
-            cursor = line.length;
+        t.children.forEach((c, i) => {
+          if (this.state.showLyrics) {
+            const rpt = c.col - (line.length + braces);
+            line += (rpt > 0 ? " ".repeat(rpt) : i > 0 ? " " : "") + c.value;
+            braces += 2 + c.value.length;
+          } else {
+            line += " " + c.value;
           }
         });
       }
@@ -99,7 +90,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 pre {
   margin: 0;
   padding: 0;
@@ -107,7 +98,7 @@ pre {
 pre p {
   margin: 0;
   padding: 0;
-  line-height: 0.5;
+  line-height: 1.2;
 }
 
 .t {
@@ -132,16 +123,26 @@ pre p {
   /* display: none; */
 }
 
-.lyricline {
+.directiveline {
   font-size: medium;
   overflow: auto;
   margin: 0;
+  padding: 100;
+  line-height: 2;
+}
+
+.lyricline {
+  font-size: medium;
+  overflow: auto;
   padding: 0;
+  line-height: 1.2;
 }
 
 .chordline {
   margin: 0;
   padding: 0;
+  line-height: 1;
+  margin-bottom: -10px;
   display: inline-block;
 }
 
@@ -149,11 +150,9 @@ pre p {
   font-weight: bold;
   white-space: pre;
   color: blue;
-  /*  display: block;*/
 }
 
 .directive {
-  /*  margin-top: 20px;*/
   font-size: large;
   background-color: lightgray;
   font-style: italic;

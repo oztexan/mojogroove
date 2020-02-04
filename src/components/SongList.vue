@@ -8,11 +8,13 @@
           accordion
           inset
           focusable
-          v-model='openSong'>
+          v-model='openSong'
+          multiple
+        >
         <v-expansion-panel v-for="(s,i) in lowerSongs" :key="i">
           <v-expansion-panel-header style="text-transform: capitalize"><h3>{{i+1}}. {{s}}</h3></v-expansion-panel-header>
           <v-expansion-panel-content>
-            <song :show="i===openSong" :song="songs[s]" :hideChords="hideChords" :hideLyrics="hideLyrics" :hideDirectives="hideDirectives"></song>
+            <song :show="openSong.includes(i)" :song="state.songs[s]" :state="state"></song>
           </v-expansion-panel-content>
         </v-expansion-panel>
       </v-expansion-panels>
@@ -30,17 +32,8 @@ export default {
     list: {
       type: Array
     },
-    songs: {
+    state: {
       type: Object
-    },
-    hideChords: {
-      type: Boolean
-    },
-    hideLyrics: {
-      type: Boolean
-    },
-    hideDirectives: {
-      type: Boolean
     }
   },
   components: {
@@ -48,7 +41,7 @@ export default {
   },
   data() {
     return {
-      openSong: null
+      openSong: []
     };
   },
   computed: {
