@@ -5,12 +5,17 @@
 yarn install
 ```
 
+Note, was encountering heap out of memory errors so bumped the size as per [vue-cli issues](https://github.com/vuejs/vue-cli/issues/1453#issuecomment-395120163) in package.json
+
+Also, added ./dist to .eslintignore to avoid unnecessary processing
+
 ### Compiles and hot-reloads for development
 ```
 yarn serve
 ```
 
 ### Compiles and minifies for production
+
 ```
 yarn build
 ```
