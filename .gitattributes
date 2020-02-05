@@ -1,7 +1,7 @@
-*.chordpro -linguist-detectable
-*.cho -linguist-detectable
-*.pro -linguist-detectable
-*.txt -linguist-detectable
-*.lst -linguist-detectable
+*.chordpro linguist-documentation
+*.cho linguist-documentation
+*.pro linguist-documentation
+*.txt linguist-documentation
+*.lst linguist-documentation
 #*.pro linguist-documentation
 #*.pro linguist-language=Javascript
