@@ -1,71 +1,62 @@
 {t: The Horses}
 {st: Daryl Braithwaite}
+{ipodid: 7784966281146110533}
 
-[B][C#][F]
+{c:start scroll!}
 
 {c: Verse}
-[B]We will fly[F#]
-Way up high[E]
-Where the cold wind blows[B]
-Or in the sun[F#]
-Laughing having [E]fun
-With the people that she knows[B]
-And if the situation[F#]
-Should keep us sepa[E]rated
-You know the [F#]world won't fall apart[B]
-And you will free [F#]the beautiful bird[E]
-That's caught inside your [B]heart
-Can't you hear her?[E]
-Oh she cries so loud[B]
-Casts her wild note[E]
-Over water and cloud[B]
+[G]We will fly
+[D]Way up high
+[Em]Where the cold [C]wind blows
+[G]Or in the sun
+[D]Laughing having fun
+[Em]With the people that she [C]knows
+[G]And if the situat[D]ion
+Should keep us sepa[Em]rated
+You know the [C]world won't fall apart
+[G]And you will free [D]the beautiful bird
+[Em]That's caught inside your [C]heart
+
+{c: whisper...EAppargio high 3 strings}
+Can't you hear her?
+Oh she cries so loud
+Casts her wild note
+Over water and [G]cloud
 
 {c: Chorus}
-[E]That's the [B]way it's gonna [C#m]be, little [A]darlin'[E]
-We'll go r[B]iding on the h[C#m]orses, y[A]eah yeah[E]
-Way [B]up in the [C#m]sky, little [A]darlin'[E]
-And if you [B]fall I'll [C#m]pick you up, [A]pick you up[B]
+[C]That's the [G]way it's gonna [Am]be, little [F]darlin'
+[C]We'll be r[G]iding on the h[Am]orses, y[F]eah yeah
+[C]Way [G]up in the [Am]sky, little [F]darlin'
+[C]And if you [G]fall I'll [Am]pick you up, [F]pick you up
+[G]
 
 {c: Interlude}
-[F#][E][B]
+[D][C][G]
 
 {c: Verse}
-You will grow[F#]
-And until you go[E]
-I'll be right there by your side[B]
-And even then[F#]
-Whisper the wind[B]
-And she will [E]carry up your ride[B]
-I hear all [F#]the people of the world[E]
-In one bird's lonely cry[B]
-See them trying[F#] every way they know how[E]
-To make their spirit [B]fly
-Can't you see him?[E]
-He's down on the ground[B]
-He has a broken wing[E]
-Looking all around [B]
+[G]You will grow
+[D]And until you go
+[Em]I'll be right [C]there by your side
+[G]And even then
+[D]Whisper the wind
+[Em]And she will [C]carry up your ride
+[G]I hear all [D]the people of the world[Em]
+In one bird's [C]lonely cry
+[G]See them trying[D] every way they know how
+[Em]To make their spirit [C]fly
+{c:whisper}
+Can't you see him?[C]
+He's down on the ground[G]
+He has a broken wing[C]
+Looking all around [G]
 
-{c:Chorus}
-[E]That's the [B]way it's gonna [C#m]be, little [A]darlin'[E]
-We'll go [B]riding on the [C#m]horses, [A]yeah yeah[E]
-Way [B]up in the [C#m]sky, little [A]darlin'[E]
-And if you [B]fall I'll [C#m]pick you up, [A]pick you up
-
-[E]That's the [B]way it's gonna [C#m]be, little [A]darlin'[E]
-We'll go [B]riding on the [C#m]horses, [A]yeah yeah[E]
-Way [B]up in the [C#m]sky, little [A]darlin'[E]
-And if you [B]fall I'll [C#m]pick you up, [A]pick you up
-
-[E]That's the [B]way it's gonna [C#m]be, little [A]darlin'[E]
-We'll go [B]riding on the [C#m]horses, [A]yeah yeah[E]
-Way [B]up in the [C#m]sky, little [A]darlin'[E]
-And if you [B]fall I'll [C#m]pick you up, [A]pick you up
-
-[E]That's the [B]way it's gonna [C#m]be, little [A]darlin'[E]
-We'll go [B]riding on the [C#m]horses, [A]yeah yeah[E]
-Way [B]up in the [C#m]sky, little [A]darlin'[E]
-And if you [B]fall I'll [C#m]pick you up, pick you [B]up
+{c: Chorus X 4}
+[C]That's the [G]way it's gonna [Am]be, little [F]darlin'
+[C]We'll go r[G]iding on the h[Am]orses, y[F]eah yeah
+[C]Way [G]up in the [Am]sky, little [F]darlin'
+[C]And if you [G]fall I'll [Am]pick you up, [F]pick you up
+[G]
 
 
 {c: Outro}
-[F#][B][E]
+[D][G][C]

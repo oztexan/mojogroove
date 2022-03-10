@@ -1,68 +1,78 @@
 {t: I was made for loving you}
 {a: kiss}
 
-i></i>Em                             G
-Tonight I wanna give it all to you
-D 
-In the darkness
-                       Em
-Theres so much I wanna do
-Em                                  G
-And tonight I wanna lay it at your feet
-D    
-cause girl, I was made for you
-                   C
-And girl, you were made for me
 
-Em                            
-I was made for lovin you baby
-Am
-You were made for lovin me
-Em
-And I cant get enough of you baby
-Am              Em    D
-Can you get enough of me
+{c: Intro}
 
-(From here it's played the same way)
+[Em]
+[Em][Em] 
+[Am][D][Am][D]
+[Em]Doo doo doo doo-doo doo-doo doo doo
+[Am]Doo doo doo doo-doo doo-doo
+[Em]Doo doo doo doo-doo doo-doo doo doo
+[Am]Doo doo doo doo-doo doo-[D]doo
 
-Tonight I wanna see it in your eyes
-Feel the magic
-Theres something that drives me wild
-And tonight were gonna make it all come true
-cause girl, you were made for me
-And girl I was made for you
+{c: Verse 1}
 
-I was made for lovin you baby
-You were made for lovin me
-And I cant get enough of you baby
-Can you get enough of me
+To[Em]night, I wanna give it all t[G]o you
+In the [B]darkness
+There's so much I[Em] wanna do
+And to[Em]night, I wanna lay it at yo[G]ur feet
+Cause girl, I was [B]made for you
+[A]And girl, you were made for me
 
-I was made for lovin you baby
-You were made for lovin me
-And I can give it all to you baby
-Can you give it all to me
+{c: Chorus}
 
-D               C    D    Em
-Oh, cant get enough, oh, oh
-            C      D    Em
-I cant get enough, oh, oh
-           C        D
-I cant get enough
+[Em]I was made for lovin' you baby
+[Am]You were made for lovin' me
+And [Em]I can't get enough of you baby
+[Am]Can you get enough of [D]me
 
-(played the same wy as the other chorus)
-I was made for lovin you baby
-You were made for lovin me
-And I cant get enough of you baby
-Can you get enough of me
+{c: Verse 2}
 
-Em              Am
-Oh, I was made, you were made
-Em
-I cant get enough
-Am
-No, I cant get enough
+To[Em]night, I wanna see it in yo[G]ur eyes
+Feel the [B]magic
+There's something th[Em]at drives me wild
+And to[Em]night, we're gonna make it all co[G]me true
+Cause girl, you were [B]made for me
+[A]And girl, I was made for you
 
-I was made for lovin you baby
-You were made for lovin me
-And I cant get enough of you baby
-Can you get enough of me
+{c: Chorus}
+
+[Em]I was made for lovin' you baby
+[Am]You were made for lovin' me
+And [Em]I can't get enough of you baby
+[Am]Can you get enough of [D]me
+
+[Em]I was made for lovin' you baby
+[Am]You were made for lovin' me
+And [Em]I can give it all to you baby
+[Am]Can you give it all to [D]me
+
+{c: Interlude}
+
+[C]x3[CM7][D][D][Em][D]
+[C][CM7][D]N.C. A B   N.C.
+
+[Em]x3[Am][D]
+
+[Em]Doo doo doo doo-doo doo-doo doo doo
+[Am]Doo doo doo doo-doo doo-doo
+
+{c: Chorus}
+
+[Em]I was made for lovin' you baby
+[Am]You were made for lovin' me
+And [Em]I can't get enough of you baby
+[Am]Can you get enough of [D]me
+
+Oh, [Em]I was made, [Am]you were made
+I [Em]can't get enough
+No, I [Am]can't get enough[D]
+
+[Em]I was made for lovin' you baby
+[Am]You were made for lovin' me
+And [Em]I can't get enough of you baby
+[Am]Can you get enough of [D]me
+
+(fade out)

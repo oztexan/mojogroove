@@ -1,76 +1,63 @@
 {t: Gold Dust Woman}
 {st: Fleetwood Mac}
-
-D     xx0232
-G     320003
-C     x32010
-Daug  xx033x
-Bb    x13331
-
+{ipodid: 1239406695252622095}
     
-Verse 1
-D                 G 
-Rock on gold dust woman
-C                       G           D      Daug  D  Daug  D 
-Take your silver spoon,    dig your grave
-          G          C                       G     D  Daug  D 
-Heartless challenge, pick your path and I'll pray
-               G 
-Wake up in the morning
-C                  G             D     Daug  D  Daug  D 
-See your sunrise - loves - to go down
-      G      C 
-Lousy lovers pick their prey
-         G             D      Daug        D 
-But they never cry out loud    –    cry out
+Tuning: Drop D
 
-Chorus 1
-              Bb                    
-Well, did she make you cry
-G                         
-Make you break down
-C                         D 
-Shatter your illusions of love
-          Bb         G 
-And is it over now - do you know how
-C                         D     Daug  D  Daug  D 
-Pick up the pieces and go home
+{c: riff}
+{sot}
+e----------
+B--3-3-3/5-
+G--2-3-3/5-
+D----------
+A----------
+D-0-0-0----
+{eot}
 
-Verse 2
-                G     C                G 
-Rock on ancient queen follow those who pale
-        D       Daug  D  Daug  D 
-In your shadow
-                G 
-Rulers make bad lovers
-C                   G              D     Daug         D 
-You better put your kingdom up for sale    –   up for sale
+{c: verse}
+[D][G][C][G]
+verse riff
 
-Chorus 2
-              Bb                    
-Well, did she make you cry
-G                         
-Make you break down
-C                         D 
-Shatter your illusions of love
-          Bb         G 
-And is it over now - do you know how
-C                         D 
-Pick up the pieces and go home
+{c: Chorus}
+[Bb][G][C][D]
+verse riff
 
-Chorus 3
-              Bb                    
-Well, did she make you cry
-G                         
-Make you break down
-C                         D 
-Shatter your illusions of love
-          Bb         G 
-And is it over now - do you know how
-C                         D 
-Pick up the pieces and go home
-Daug     D     Daug     D 
-      Go home,       go home
+{c:Verse 1}
+[D]Rock on gold dust [G]woman
+[C]Take your silver spoon, [G]   dig your [D]grave[Daug][D][Daug][D]
+Heartless [G]challenge, [C]pick your path and I'll [G]pray[D][Daug][D]
+Wake up in the [G]morning
+[C]See your sunrise - [G]loves - to go [D]down[Daug][D][Daug][D]
+Lousy [G]lovers [C]pick their prey
+But they [G]never cry out [D]loud   [Daug] –    cry out[D]
 
+{c:Chorus 1}
+Well, did she [Bb]make you cry
+[G]Make you break down
+[C]Shatter your illusions of [D]love
+And is it [Bb]over now - [G]do you know how
+[C]Pick up the pieces and go [D]home[Daug][D][Daug][D]
 
+{c:Verse 2}
+Rock on ancient [G]queen [C]follow those who [G]pale
+In your [D]shadow[Daug][D][Daug][D]
+Rulers make bad [G]lovers
+[C]You better put your [G]kingdom up for [D]sale  [Daug]  –   up for [D]sale
 
+{c:Chorus 2}
+Well, did she [Bb]make you cry
+[G]Make you break down
+[C]Shatter your illusions of [D]love
+And is it [Bb]over now - [G]do you know how
+[C]Pick up the pieces and go [D]home
+
+Well, did she [Bb]make you cry
+[G]Make you break down
+[C]Shatter your illusions of [D]love
+And is it [Bb]over now - [G]do you know how
+[C]Pick up the pieces and go [D]home
+[Daug]Go [D]home, [Daug]      go home[D]
+
+Pale shadow...... addd
+
+On n on n on

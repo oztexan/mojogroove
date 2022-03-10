@@ -1,5 +1,6 @@
 {t: Save Tonight}
 {st: Eagle Eye Cherry}
+{ipodid: 7784966281146110215}
 
 capo on first fret
 
@@ -65,6 +66,7 @@ SAVE TONIGHT AND FIGHT THE BRAKE OF DAWN
      AM     F C                 G
 COME TOMORROW TOMORROW I’LL BE GONE
 
+[Solo]
 
 [Verse]
 

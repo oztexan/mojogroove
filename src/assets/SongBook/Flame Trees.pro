@@ -1,18 +1,14 @@
+
 {t: Flame Trees}
 {st: Cold Chisel}
 
-	  Intro:    A    E    A    E
+Hummin' Away - Transpose to E
 
-A                                       E
-The kids are driving and Saturday afternoon just passed me by
-A                    E
-I'm just savouring familiar sights
-A                      E
-We shared some history, this town and I
-A            B                G#m               A
-And I can't stop that long-forgotten feeling of her
-A                  B             E
-In time to book a room and stay tonight
+[A]The kids are driving and Saturday aftern[E]oon just passed me by
+[A]I'm just savouring fa[E]miliar sights
+[A]We shared some history,[E] this town and I
+[A]And I can't s[B]top that long-for[G#m]gotten feeling of [A]her
+[A]In time to book a r[B]oom and stay t[E]onight
 
 Number 1 is to find some friends and say "you're doing well --
 After all this time you boys look just the same"
@@ -20,33 +16,19 @@ Number 2 is the Happy Hour at one of two hotels
 And settle in to play "Do you remember so-and-so"
 Number 3 is never say her name
 
-
 CHORUS:
-           A              B             F#m
-And oh the flame trees'll blind a weary driver
-            A                B                E
-And there's nothing that can set fire to this town
-             A                 B         C#m                E
-There's no change, there's no pace, everything within its place,
-               A          B                    E
-Just makes it harder to believe that she won't be around
+And oh the [A]flame trees'll [B]blind a weary [F#m]driver
+And there's [A]nothing that can [B]set fire to this [E]town
+There's no ch[A]ange, there's no p[B]ace, every[C#m]thing within its pl[E]ace,
+Just makes it h[A]arder to be[B]lieve that she won't [E]be around
 
-
-A                              E
-Oh, who needs that sentimental bullshit anyway
-A                                   E
-It takes more than just a memory to make me cry
-A                                   E
-And I'm happy just to sit here at a table with old friends
-A                                                 E
-And see which one of us can tell the biggest lies
-A                                        E
-And there's a girl, she's fallin' in love near where the pianola stands
-A                                       E
-With a young local factory auto worker -- just holdin' hands
-          A                G#m             B
-And I'm wondering if he'll go or if he'll stay
-C         G              C                 G            D    E
-Do you remember, nothing stopped us on the field in our day
+[A]Oh, who needs that sentimental [E]bullshit anyway
+[A]It takes more than just a memory to [E]make me cry
+[A]And I'm happy just to sit here at a [E]table with old friends
+[A]And see which one of us can tell the biggest lies[E]
+[A]And there's a girl, she's fallin' in love[E] near where the pianola stands
+[A]With a young local factory auto worker -[E]- just holdin' hands
+And I'm wo[A]ndering if he'll [G#m]go or if he'll s[B]tay
+[C]Do you rem[G]ember, nothing [C]stopped us on the [G]field in our [D]day[E]
 
 CHORUS

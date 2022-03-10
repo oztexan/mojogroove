@@ -1,18 +1,18 @@
 {t:Smoke On the Water}
 {st:Deep Purple}
 {c: Verse 1}
-[G]We all came down to Montreux
-on the Lake Ge[F]neva [G]shoreline
-[G]To make records with the mobile
-We didn't [F]have much [G]time
-[G]Frank Zappa and the mothers
-were at the best [F]place a[G]round
-[G]But some stupid with a flare-gun
-burned the place [F]to the [G]ground
+[E]We all came down to Montreux
+on the Lake Ge[D]neva [E]shoreline
+[E]To make records with the mobile
+We didn't [D]have much [E]time
+[E]Frank Zappa and the mothers
+were at the best [D]place a[E]round
+[E]But some stupid with a flare-gun
+burned the place [D]to the [E]ground
 {c: Chrous 1}
-[C]Smoke on the [Ab]water
-[G]a fire in the sky
-[C]Smoke on the [Ab]water
+[A]Smoke on the [F]water
+[E]a fire in the sky
+[A]Smoke on the [F]water
 {c: Verse 2}
 They burned down the gambling house
 it died with an awful sound

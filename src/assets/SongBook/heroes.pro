@@ -1,57 +1,39 @@
 {t: Heroes}
-{ipodid: 8584594496651078679}
 {a: David Bowie}
 
-Ebow b string 10 7 12
-
-Intro [D] [G]
-Guitar riff 1
-
 Verse (no Chorus):
-Violinish guitars
-[D] [G] [D] [G] (last verse extra two)
-[C] [D]
-[Am] [Em] [D]
-[C] [G] [D]
+[A] [D] [A] [D] (last verse extra two)
+[G] [A]
+[Em] [Bm] [A]
+[G] [D] [A]
 
 Bridge/Solo/Outro:
-[D] [G]  
-[D] [G]
+[A] [D]  
+[A] [D]
 
-(guitar riff 1)
-[D]I - I wish you could swim[G]
-Like the [D]dolphins - like dolphins can swim[G]
-(guitar riff 2 bendy)
-Though [C]nothing - nothing will keep us together[D]
-We can [Am]beat them [Em] forever and [D]ever
-(guitar riff 3)
-Oh we can be [C]Heroes [G]just for one [D]day
+[A]I - I wish you could swim[D]
+Like the [A]dolphins - like dolphins can swim[D]
+Though [G]nothing - nothing will keep us together[A]
+We can [Em]beat them [Bm] forever and [A]ever
+Oh we can be [G]Heroes [D]just for one [A]day
 
-[D]  [G]  [D]  [G] X2
-(guitar riff 1)
+[A]  [D]  [A]  [D] X2
 
-(guitar riff 1)
-[D]I - I will be Ki[G]ng
-And [D]you - you will be Que[G]en
-(guitar riff 2 bendy)
-For [C]nothing will drive them aw[D]ay
-We can be [C]Heroes [G]- just for one [D]day
-(guitar riff 3)
-We can be [Am]honest - [Em] just for one [D]day
+[A]I - I will be Ki[D]ng
+And [A]you - you will be Que[D]en
+For [G]nothing will drive them aw[A]ay
+We can be [G]Heroes [D]- just for one [A]day
+We can be [Em]honest - [Bm] just for one [A]day
 
-(guitar riff 1)
-[D]I - I can re[G]member (I remember)
-[D]Standing by the [G]wall (By the wall)
-And the [D]guards shot a[G]bove our heads (Over our heads)
-And we [D]kissed as though nothing would [G]fall (Nothing could fall)
+[A]I - I can re[D]member (I remember)
+[A]Standing by the [D]wall (By the wall)
+And the [A]guards shot a[D]bove our heads (Over our heads)
+And we [A]kissed as though nothing would [D]fall (Nothing could fall)
+And the [G]shame was on the [A]other side
+Oh we can [Em]beat them for[Bm]ever and [A]ever
+Then we can be [G]Heroes [D]just for one [A]day
 
-(guitar riff 2)
-And the [C]shame was on the [D]other side
-Oh we can [Am]beat them for[Em]ever and [D]ever
-(guitar riff/chords 3)
-Then we can be [C]Heroes [G]just for one [D]day
-
-[D]      (We can be He[G]roes)
-[D]      (We can be He[G]roes) 
-[D]      (We can be He[G]roes) just for one day
-[D]      (We can be He[G]roes) ...
+[A]      We can be He[D]roes 
+[A]      We can be He[D]roes 
+[A]      We can be He[D]roes just for one day
+[A]      We can be He[D]roes ...

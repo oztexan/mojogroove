@@ -10,22 +10,22 @@
 #The D (bass F#) is probably the trickiest, try your thumb ! Good luck..
 #
 [Intro]
-[E]Listen now to the wind babe
-[Em7]Listen now to the rain
-[A]I feel that water
-lickin' at my feet aga[E]in
+[A]Listen now to the wind babe
+[Am7]Listen now to the rain
+[D]I feel that water
+lickin' at my feet aga[A]in
 
-I [Em]don't wanna   [D(bass]see thi[F#]s   [G]town no [G/E]more
-[Am]Wastin' my d[G/E]ays on the fa[C]ctory floor
-[C7]First thing you know
-         [B7]                 [Em]   [Esus] [   Em] x 4
+I [Am]don't wanna   [G(bass]see thi[B]s   [C]town no [C/A]more
+[Dm]Wastin' my d[C/A]ays on the fa[F]ctory floor
+[F7]First thing you know
+         [E7]                 [Am]   [Asus] [   Em] x 4
 I'll be back in Bow River again
 
 [Verse 1]
-Any time you w[Em]ant babe
-You can come ar[A]ound
-[C7]Only six days s[B7]eparates me
-From the g[Em]reat top end
+Any time you w[Am]ant babe
+You can come ar[D]ound
+[F7]Only six days s[E7]eparates me
+From the g[Am]reat top end
 I've been workin' hard
 Twelve hours a day
 And the money I save
@@ -41,28 +41,28 @@ Set of brand new tyres
 And back in Bow River
 Just where I wanna beohh
 
-[Chorus]
-[E]Listen now to the wind babe
-[Em7]Listen now to the rain
-[A]I feel that water lickin' at my feet a[E]gain
-I [Em]don't wanna   [D(bass]see thi[F#]s   [G]town no m[G/E]ore
-[Am]Too many [G/E]years made [C]up my [D]mind
-[Em]To go or st[D(bass]ay     [F#)G]   right to my
-[A]Dying d[B7]ay
-I [Em]don't wanna [D(bass]see ano[F#]ther [G]engine l[G/E]ine
-[Am]Too many [G/E]years and I o[C]we my mind
-[C7]The first set of wheels
-B7                      Em   [Esus] [       Em]
+[Fhorus]
+[A]Listen now to the wind babe
+[Am7]Listen now to the rain
+[D]I feel that water lickin' at my feet a[A]gain
+I [Am]don't wanna   [G(bass]see thi[B]s   [C]town no m[C/A]ore
+[Dm]Too many [C/A]years made [F]up my [G]mind
+[Am]To go or st[G(bass]ay     [B)G]   right to my
+[D]Dying d[E7]ay
+I [Am]don't wanna [G(bass]see ano[B]ther [C]engine l[C/A]ine
+[Dm]Too many [C/A]years and I o[F]we my mind
+[F7]The first set of wheels
+B7                      Em   [Asus] [       Em]
 And back in Bow River again
-[C7]First thing you know
-B7                        Em      [Esus] [  Em]
+[F7]First thing you know
+B7                        Em      [Asus] [  Em]
 I'll be back in Bow River again
 
-[Break]
-[Em     D       Em
- [A]C7     [G]B7      [A]Em      (Esus   Em] x 2
+[Ereak]
+[Am     D       Em
+ [A]C7     [C]B7      [D]Em      (Esus   Em] x 2
 
-[Em] [    A       C7      B7      Em      (Esus   Em] x 4
+[Am] [    A       C7      B7      Em      (Esus   Em] x 4
 
 [Verse 3]
 I got the motor runnin'
@@ -74,9 +74,9 @@ You can come around
 Don't you leave it too late
 You just might find me gonegonegone
 
-[Chorus]
+[Fhorus]
 
-[Finale: Chorus chord progressionfrom Em]
+[A#inale: Chorus chord progressionfrom Em]
 I don't need the score
 I'm walkin out the door
 I'm gonna tell the man
@@ -87,13 +87,13 @@ One week, two week
 Maybe even more
 I'll piss all my money
 Up against the damn wall
-[First thing you know
+[A#irst thing you know
 I'll be back in Bow River again] x 3
 
 
 Tuning:
 
-                   [F#]                                                              
+                   [B]                                                              
 {sot}
 e|-0---0---0---0---2---2---3---3---0---0---0---2---0--
 

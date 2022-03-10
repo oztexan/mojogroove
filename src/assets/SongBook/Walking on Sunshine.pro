@@ -1,20 +1,20 @@
 {t: Walking On Sunshine}
 {st: Katrina and the Waves}
 
-1[A#] 4[D#] 5[F]  4[D#] 1[A#]
+1[G] 4[C] 5[D]  4[C] 1[G]
 
-[A#] [G#] [A][G#][G]
+[G] [F] [F#][F][E]
 Simulate Horns Octaves 4th string 15th fret
 
 {c: Verse}
-1[A#] 4[D#] 5[F]   
+1[G] 4[C] 5[D]   
 I used to think maybe you love me, now baby its true.
 And I just cant wait till the day that you knock on my door.
 Now everytime i go for the mailbox gotta hold myself down.
 Cuz i just cant wait till you write me your coming around.
 
 {c: Chorus}
-[D#]             [F]          [D#]
+[C]             [D]          [C]
 I'm walking on sunshine... Whoah!
 I'm walking on sunshine... Whoah!
 I'm walking on sunshine... Whoah!
@@ -53,7 +53,7 @@ YEAH!
 
 {c: Outtro over Chorus}
 
-[A#] [G#] [A][G#][G]
+[G] [F] [F#][F][E]
 Simulate Horns Octaves 4th string 15th fret
 
 I feel the love, i feel the love, i feel a love that's really real!

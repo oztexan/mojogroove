@@ -2,10 +2,11 @@
 {a: Hunters And Collectors}
 
 INTRO:
-[G] [A]
+[A] [D]
+[D] [A]
 [A] [G]
-[G] [A]
-[A] [D] [Dadd] [D]
+[G] [D]
+[D] [Dadd] [D]
 
 {c: VERSE 1}
 [A] [C] [G] [D]

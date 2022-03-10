@@ -91,7 +91,7 @@ const songs = {};
 const setlists = {};
 
 function importAll(r, cache) {
-  r.keys().forEach(key => {
+  r.keys().forEach((key) => {
     const name = key.replace(/.(pro|cho|chordpro|lst|\/)/gi, "");
     if (name !== r(key)) cache[name.toLowerCase()] = r(key);
   });
@@ -105,7 +105,7 @@ export default {
     SetLists,
     SongList,
     ChordSheet,
-    ChordPro
+    ChordPro,
   },
   data() {
     return {
@@ -117,21 +117,21 @@ export default {
         songs: songs,
         setlists: setlists,
         mode: "setlists",
-        drawer: false
-      }
+        drawer: false,
+      },
     };
   },
   computed: {
-    allSongs: function() {
+    allSongs: function () {
       return Object.keys(this.state.songs).sort((a, b) => a > b);
-    }
+    },
   },
   methods: {
-    mode: function(mode) {
+    mode: function (mode) {
       this.state.mode = mode;
       this.state.drawer = false;
-    }
-  }
+    },
+  },
 };
 </script>
 
@@ -139,7 +139,7 @@ export default {
 .v-application {
   font-family: "Courier", Courier, serif, sans-serif !important;
   .title {
-    font-family: "Courier", Courier, serif, sans-serif !important;
+    font-family: "Verdana", Verdana, serif, sans-serif !important;
   }
 }
 </style>

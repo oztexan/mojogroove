@@ -1,13 +1,17 @@
 {t:Long Train Running}
 {st:Doobie Brothers}
-{C:Intro  Gm7     Dm7  Gm7    Repeat these chords}
 
 {c:Verse 1}
-[Gm7]Down around the corner[Dm7]
-A [Gm7]half A mile from here[Dm7]
-You [Gm7]see them old trains runnin'[Dm7]
-and you [Gm7]watch them disappear
-(Without [Cm7]love  [Cm6])
+[Gm7]Down around the corner[Gm7][F][Gm7]
+A [Gm7]half A mile from here [Gm7][F][Gm7]
+You [Gm7]see them old trains runnin'[Gm7][F][Gm7]
+and you [Gm7]watch them disappear [Gm7][F][Gm7]
+Without [Cm7]love[Cm6][Cm7]
+Where would you be now [Gm7][F][Gm7]
+
+{c:chorus}
+Without  [D#7][D#7/D] [D7]loooove [Gm7][F][Gm7]
+
 
 {c:Verse 2}
 You know I saw miss Lucy
@@ -16,7 +20,9 @@ She lost her home and family
 and she won't be comin' back
 Without love
 where would you be now
-(Without love)
+
+{c: chorus 2}
+Without looooooove
 
 {c:Verse 3}
 Well the [Gm7]Illinois Central
@@ -36,7 +42,9 @@ gotta keep on pushin' mama
 'cause you know they're running late
 Without love
 where would you be now
-(Without love)
+
+{c: chorus 2}
+Without looooooove
 
 {c:Verse 5 hump it(hold final D7 chord)}
 Where the pistons keep on churnin'
@@ -45,7 +53,10 @@ And the steel rails are cold and hard
 for the miles they go around
 Without love
 where would you be right now
-(Without love --- ooooooo)
+
+{c: chorus 2}
+Without looooooove 
+--ooooooo
 
 where would you be now?
 

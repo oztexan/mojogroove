@@ -1,73 +1,54 @@
+
 {t: Landslide}
 {st: Fleetwood Mac}
-{ipodid:2080676742384781311}
+{ipodid:}
 
-	  Capo 3  
+Capo 3
 
-  C             G/B               Am7            G/B   
-I took my love, i took it down   
-C                G/B                            Am7    G/B                
-Climbed a mountain and i turned around   
-         C              G/B                 Am7                G/B   
-And i saw my reflection in the snow covered hills   
-           C              G/B                       Am7     G/B    
-'Til the landslide brought it down       
+{c: verse}
 
-    C               G/B                 Am           G/B   
-Oh,  mirror in the sky    what is love?  
-               C                    G/B                Am7            G/B   
-Can the child within my heart     rise above?   
-         C                   G/B       Am7      G/B    
-Can I sail thru the changin' ocean tides?   
-         C                  G/B           Am7         G/B          
-Can I handle the seasons of my life?   
+I [C]took my love, [G/B]i took it down[Am7][G/B]
+[C]Climbed a mountai[G/B]n and i turned around[Am7][G/B]
+And i saw[C] my reflection [G/B]in the snow covered [Am7]hills[G/B]
+'Til the la[C]ndslide brought[G/B] it down[Am7][G/B]
 
-  C        G/B      Am7       G/B     C    G/B     Am7     [D7/F#]       
-mmm mmm    I don't know..... mmm mmm  
+Oh, [C] mirror in the s[G/B]ky    what is love?[Am][G/B]
+Can the child w[C]ithin my heart     ri[G/B]se above?[Am7][G/B]
+Can I sai[C]l thru the changin' [G/B]ocean tide[Am7]s?[G/B]
+Can I han[C]dle the seasons of [G/B]my life?[Am7][G/B]
 
-         G               D7/F#       Em   
-Well, I've been afraid of changin' cause I've   
-C           G/B          Am7        D7/F#   
-Built my life around you   
-      G                      D7/F#         
-But time makes you bolder   
-Em7   
-Children get older   
-C                G/B    Am7      G/B   
-I'm getting older    too        So....     
+[C][G/B][Am7][G/B][C][G/B][Am7]
+mmm mmm    I don't know..... mmm mmm
 
-(Guitar Solo) chords start on the downbeat of each measure   
-Csus2  G D5/A  G/B  Csus2  G/B  Am7  G/B     
+{c: chorus}
+Well, I'v[G]e been afraid of[D7/F#] changin' ca[Em]use I've
+[C]Built my lif[G/B]e around you[Am7][D7/F#]
+But ti[G]me makes you bolder[D7/F#]
+[Em7]Children get older
+[C]I'm getting older[G/B]    too[Am7]        S[G/B]o....
 
-  C(add2)  G/B  D5/A  G/B  C  G/B  Am7  D7   
+{c: guitar solo}
+(Guitar Solo) chords start on the downbeat of each
+[Csus2] 
+[G][D5/A][G/B][Csus2][G/B][Am7][G/B]
+C(add2)  G/B  D5/A  G/B  C  G/B  Am7  D7
 
-G           D7/F#       Em   
-I've been afraid of changin' cause i've   
-C         G/B          Am7        D7/F#   
-Built my life around you   
-      G                      D7/F#         
-But time makes you bolder   
-Em7   
-Children get older   
-C             G/B    Am7      G/B   
-I'm getting older    too          
-C             G/B    Am7        G/B     
-I'm getting older    too          So.....   
+{c: chorus}
+[G]I've been af[D7/F#]raid of chan[Em]gin' cause i've
+[C]Built my l[G/B]ife around you[Am7][D7/F#]
+But ti[G]me makes you bolder[D7/F#]
+[Em7]Children get older
+[C]I'm getting ol[G/B]der    [Am7]too[G/B]
+[C]I'm getting ol[G/B]der    [Am7]too        [G/B]  So.....
 
-Csus2   G/B           D5/A           G/B   
-Take my love, take it down          Oh....   
-Csus2           G/B              Dsus/A              G/B   
-If you Climb a mountain and turn around   
-                 C        G/B                  Am7                G/B   
-And if you see my reflection in the snow covered hills   
-              C                 G/B    Am7   
-Well the landslide will bring it down   
-                 C        G/B                  Am7   
-And if you see my reflection in the snow covered hills   
+{c: verse}
+[Csus2]Take my [G/B]love, take it [D5/A]down          O[G/B]h....
+[Csus2]If you Climb a m[G/B]ountain and turn [Dsus/A]around[G/B]
+And if you see my[C] reflecti[G/B]on in the snow covere[Am7]d hills[G/B]
+Well the lands[C]lide will bring it[G/B] down[Am7]
+And if you see my[C] reflecti[G/B]on in the snow covere[Am7]d hills
 
-Well Maybe......   
+Well Maybe......
 
-       C                 G/B    Am7   
-The landslide will bring it down   
-G/B                C                 G/B    Am   
-Well  Well The landslide will bring it down   
+The lan[C]dslide will bring [G/B]it down[Am7]
+[G/B]Well  Well The land[C]slide will bring i[G/B]t down[Am]

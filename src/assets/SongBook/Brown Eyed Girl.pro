@@ -1,6 +1,6 @@
 {t: Brown Eyed Girl}
 {st: Van Morrison}
-{ipodid: 2888856468073276217}
+{ipodid:}
 
 {c: Intro}
 
@@ -8,6 +8,8 @@
 
 G   C   G   D
 G   C   G   D
+C D G E
+C D G D
 
 {c: Verse}
 

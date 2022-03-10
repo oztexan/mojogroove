@@ -9,7 +9,8 @@
 [Am] [G] [D] X3 [Em]
 
 {c: Break}
-[F#] [G] [A] X3  [B] [D] [E]
+[F#] [G] [A] X3  
+[B] [D] [E]
 
 {c: Verse 1}
   [Am] 
@@ -35,7 +36,7 @@ Can't you see I'm burning alive
 [Am]             [G]            [D] 
 Can't you see my baby's got another lover 
 [Em] 
-I don't know how I'm gonna surive 
+I don't know how I'm gonna survive
 [Am]            [G]           [D] 
 Somebody bring me some water 
 [Am]             [G]           [D] 
@@ -55,13 +56,56 @@ I need some insanity that temporary kind
 tell me how will I ever be the same 
 when I know that woman is wispering you name 
 
-{c: Chorus 2}
+{c: Chorus 2} 
+[Am]        [G]         [D] 
+Somebody bring me some water 
+[Am]           [G]          [D] 
+Can't you see I'm burning alive 
+[Am]             [G]            [D] 
+Can't you see my baby's got another lover 
+[Em] 
+I don't know how I'm gonna survive
+[Am]            [G]           [D] 
+Somebody bring me some water 
+[Am]             [G]           [D] 
+Can't you see it's out of control 
+[Am]             [G]              [D] 
+Baby's got my heart baby's got my mind 
+[Em] 
+But tonight the sweet devil, sweet devil's got my soul 
+
 
 {c: Break}
 [F#] [G] [A] X3
 Oohhhh ahh ha
 [B] [D] [E]
 
-{c: Chorus 3}
+{c: Chorus 3} 
+[Am]        [G]         [D] 
+Somebody bring me some water 
+[Am]           [G]          [D] 
+Can't you see I'm burning alive 
+[Am]             [G]            [D] 
+Can't you see my baby's got another lover 
+[Em] 
+I don't know how I'm gonna survive
+[Am]            [G]           [D] 
+Somebody bring me some water 
+[Am]             [G]           [D] 
+Can't you see it's out of control 
+[Am]             [G]              [D] 
+Baby's got my heart baby's got my mind 
+[Em] 
+But tonight the sweet devil, sweet devil's got my soul 
+
+{c: chorus 4} 
+[Am]        [G]         [D] 
+...
+[Am]           [G]          [D] 
+...
+[Am]             [G]              [D] 
+Baby's got my heart baby's got my mind 
+[Em] 
+But tonight the sweet devil, sweet devil's got my soul 
 
 {c: Outtro}

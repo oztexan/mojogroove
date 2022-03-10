@@ -1,6 +1,10 @@
 {t:Wish You Were Here}
 {st:by Pink Floyd}
+{ipodid: 7784966281146109658}
 
+{c:intro gtr}
+
+{c: verse}
 [G]    [C]So, so ya think you can [D]tell,
     Heaven from  [Am]hell, 
     Blue skies from [G]pain, 
@@ -9,6 +13,7 @@
     A smile from a [Am]veil? 
     Do ya think ya can [G]tell?
 
+{c: verse}
 [G]    Did they get you to [C]trade, 
     Your heroes for [D]ghosts, 
     Hot ashes for [Am]trees
@@ -18,6 +23,9 @@
     A walk on part in the [Am]war, 
     for a lead role in a [G]cage?
 
+{c: intro gtr}
+
+{c:c verse}
 [G]    [C]How I wish, how I wish you were [D]here,
     Were just [Am]two lost souls swimming in a fish bowl,
   [G]  Year after year, [D]

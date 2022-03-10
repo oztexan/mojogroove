@@ -3,6 +3,7 @@ Tuned a 1/2 step down
 {t: Never Gonna Give You Up}
 {st: Rick Astley}
 
+Melody starts on 5th c#
 {c: Intro}
 [F#]6 x[G#][Fm][A#m]
 

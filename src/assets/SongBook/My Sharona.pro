@@ -1,5 +1,6 @@
 {t: My Sharona}
 {st: The Knack}
+{ipodid: 7784966281146115785}
 
 Verse:
 [G5]  
@@ -7,6 +8,10 @@ Verse:
 
 Bridge:
 [G5] [Bb] [C] [Eb] [F]
+
+Solo:
+[C][Baug5][F][G]
+Solo over Aminor
 
 VERSE 1:
 [G5]Ohhh my little pretty one, 		my pretty one,
@@ -58,7 +63,7 @@ BRIDGE 3:
 CHORUS: X5
 
 SOLO 2:
-[C] [Baug5] [Am] Xabunch
+[C] [Baug5] [F][G]Xabunch
 
 [D][D][D]...
 

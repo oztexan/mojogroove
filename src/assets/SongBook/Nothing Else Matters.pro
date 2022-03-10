@@ -1,8 +1,9 @@
 {t: Nothing Else Matters}
 {st: Metallica}
-{ipodid: 2888856468073273170}
+{time:5:03}
+{ipodid:7784966281146110079}
 	 
-
+{c: verse 1}
 Em                 D      C    
 So close no matter how far    
 Em                    D             C     
@@ -11,7 +12,8 @@ Em               D         C
 Forever trusting who we are    
 G   B            Em    
 And nothing else matters    
-    
+
+{c: verse 2}
 Em             D            C    
 Never opened myself this way    
 Em                       D      C    
@@ -20,7 +22,8 @@ Em                      D       C
 All these words I don't just say    
 G   B7           Em    
 And nothing else matters    
-    
+
+{c: verse 3}
 Em                 D        C    
 Trust I seek and I find in you    
 Em               D            C    
@@ -38,14 +41,48 @@ C Am D                          C
   Am D      Em    
      But I know    
     
-{c:repeat 1st verse}    
 
-{c:Chorus}    
+{c: verse 1}
+Em                 D      C    
+So close no matter how far    
+Em                    D             C     
+Couldn't be much more from the heart    
+Em               D         C    
+Forever trusting who we are    
+G   B            Em    
+And nothing else matters
+
+{c: Chorus}    
+C Am D                          C    
+     Never cared for what they do    
+  Am D                          C    
+     Never cared for what they know    
+  Am D      Em    
+     But I know
 
 {c: solo Em Am C D}
 
-{c: repeat 2nd and 3rd verse}    
-    
+{c: verse 2}
+Em             D            C    
+Never opened myself this way    
+Em                       D      C    
+Life is ours, we live it our way    
+Em                      D       C    
+All these words I don't just say    
+G   B7           Em    
+And nothing else matters    
+
+{c: verse 3}
+Em                 D        C    
+Trust I seek and I find in you    
+Em               D            C    
+Every day for us something new    
+Em              D             C    
+Open mind for a different view    
+G   B7           Em    
+And nothing else matters     
+
+{c: chorus}
 C Am D                          C    
      Never cared for what they say    
   Am D                          C    
@@ -59,7 +96,15 @@ C Am D                          C
 
 {c: solo Em em  D C}
 
-{c: repeat 1st verse}    
+{c: verse 1}
+Em                 D      C    
+So close no matter how far    
+Em                    D             C     
+Couldn't be much more from the heart    
+Em               D         C    
+Forever trusting who we are    
+G   B            Em    
+And nothing else matters
 
 
 

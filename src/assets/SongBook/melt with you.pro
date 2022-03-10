@@ -6,7 +6,7 @@ Intro
 
 {sov}
 [C]Moving forward using all[F] my breath
-[C]Making love to you was never sec[F]ond best
+[C]Making love with you was never sec[F]ond best
 [C]I saw the world thrashing all a[F]round your face
 [C]Never really knowing it was always mesh [F]and lace
 {eov}

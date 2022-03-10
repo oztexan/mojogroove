@@ -12,7 +12,7 @@
           multiple
         >
         <v-expansion-panel v-for="(s,i) in lowerSongs" :key="i">
-          <v-expansion-panel-header style="text-transform: capitalize"><h3>{{i+1}}. {{s}}</h3></v-expansion-panel-header>
+          <v-expansion-panel-header style="text-transform: capitalize"><h3><span class="song_title">{{i+1}}. {{s}}</span></h3></v-expansion-panel-header>
           <v-expansion-panel-content>
             <song :show="openSong.includes(i)" :song="state.songs[s]" :state="state"></song>
           </v-expansion-panel-content>
@@ -30,34 +30,39 @@ import Song from "./Song.vue";
 export default {
   props: {
     list: {
-      type: Array
+      type: Array,
     },
     state: {
-      type: Object
-    }
+      type: Object,
+    },
   },
   components: {
-    Song
+    Song,
   },
   data() {
     return {
-      openSong: []
+      openSong: [],
     };
   },
   computed: {
-    lowerSongs: function() {
-      return this.list.map(e => e.toLowerCase());
-    }
+    lowerSongs: function () {
+      return this.list.map((e) => e.toLowerCase());
+    },
   },
   methods: {
-    getTitle: function(s) {
-      const title = s.parseResult.find(e => {
+    getTitle: function (s) {
+      const title = s.parseResult.find((e) => {
         return e.value === "t";
         //        return false;
       });
       return title ? title.children[0].value : "Unnamed";
-    }
-  }
+    },
+  },
 };
 </script>
 
+<style scoped>
+.song_title {
+  font-family: "Verdana", Verdana, serif, sans-serif !important;
+}
+</style>

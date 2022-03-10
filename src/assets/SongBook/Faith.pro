@@ -3,12 +3,14 @@
 {st: George Michael}
 {guitar_comment: Start on B}
 
+{c:solo c#m}
 {c: Intro}
 [B]   [B]
 {c: Verse}
 [B] [B] [E] [B]
 {c: Prechorus}
-[E]   [B]   [E]   [B]   [E]   [B] [G#m] [C#m] [F#]
+[E]   [B]   [E]   [B]   [E]  
+[G#m] [C#m] [F#]
 {c: Chorus}
 [B]
 

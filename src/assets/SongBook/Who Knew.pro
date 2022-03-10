@@ -1,78 +1,103 @@
-{t: Who Knew}
-{st: Pink}
-{ipodid: 8584594496651082088}
+{t: who knew}
+{a: pink}
 
-{sot}
+--------------------------------------------------------------------- +
+<i></i>Capo 2
 
+e|-------3-------3-------2-------3-------0-------0-------|
+B|-------0-------3-------3-------3-------1-------1-------|
+G|-------0-------0-------2-------0-------0-------2-------|
+D|-------0-------0-------0-------2-------2-------2-------|
+A|-------2-------2-------0-------2-------3-------0-------|
+E|-------3-------3-------0-------0-------0-------0-------|
+         G       G*      D       Em      C       Am   
 
-e|-x-0-x-x-x-x-------|
-B|-2-2-3-2-0-x-------|
-G|-2-2-2-2-2-4-------|
-D|-x-x-x-x-x-2-------|
-A|-x-x-x-x-x-x-------|
-E|-x-x-x-x-x-0-------|
+ So! the deal with the G and G*. If you listen to the song, you hear one 
+ note change during the intro/verses on the G chord. I think 
+ the change of just adding the D on the 3rd fret keeps pretty close to 
+ what the song does.
 
-G|-6-9-6-9-7-2-4-|
-D|-7-7-7-7-7-4-6-|
-A|-0-0-0-0-0-0-0-|
-{eot}
+ Usually, I always play a G with the added D, so in the chorus I prefer it.
+ Up to you, though. 
+
  
- [Intro]:  [A3]    [A5] or [A5/C#]  
 
-{c: Verse 1}
-[A3]    [A5] [A5/C#]  
-You took my hand, you showed me how,
-[A3]    [A5] [A5/C#]  [A4]  [A3]  [A2]
-you promised me you'd be around...Uhuh, that's right...
-[A3]    [A5]  [A5/C#]  
-I took your words and I believed 
-[A3]    [A5] [A5/C#]  [A4]  [A3]  [A2]
-In everything you said to me...  Yahuh, that's right...
+ [Intro]:  G    G*   G    G*
 
-
-{c: Chorus 1}
-[D]            [E]                [F#]          [A]
-(If someone said three years from now you'd be long gone,) 3rd?
-[D]            [E]           [F#]              [A]
-(I'd stand up and punch them out, cuz they're all wrong...)
-[D]       [E]     [F#]       [A]
-(I know better, cuz you said forever,)
-[D]         [E]
-(and ever...Who knew?)
+ [Verse 1]
+G              G* 
+ You took my hand, you showed me how,
+G              G*            Am      Em          D
+ you promised me you'd be around...Uhuh, that's right...
+G              G*           G             G*                Am
+ I took your words and I believed in everything you said to me...
+   Em          D
+ Yahuh, that's right...
 
 
-{c: Verse 2}
-Remember when we were such fools, and so convinced and just too cool...
-(Oh no...no no...)
-I wish I could touch you again, I wish I could still call you a friend,
-I'd give anything...
+ [Chorus]
+    C            D                Em           G
+ If someone said three years from now you'd be long gone,
+     C            D           Em              G
+ I'd stand up and punch them out, cuz they're all wrong...
+C       D     Em        G
+ I know better, cuz you said forever,
+C         D
+ and ever...Who knew?
 
-{c: Chorus 2}
-When (someone said count your blessings now, for they're long gone,)
-I (guess I just didn't know how, I was all wrong.)
-(They knew better, still you said forever,)
-(and ever...Who knew?)
+ G    G*    G     G*
 
-{c:Bridgy Verse}
-[Bm][F#m][E]  [A]
-Guitars Simulating Violins
-I'll keep you locked in my head, until we meet again...
-Until we...Until we meet again...
-And I won't forget you my friend,
-what happened?
+ [Verse 2]
+G         G*                     G           G*                  Am
+ Remember when we were such fools, and so convinced and just too cool...
+    Em      D
+ Oh no...no no...
+G         G*                  G            G*                    Am
+ I wish I could touch you again, I wish I could still call you a friend,
+     Em      D
+ I'd give anything...
 
-{c: Chorus 3}
-[Ab][A]
-Simulate violins over
-[D] [E] [F#] [A]
-If someone said three years from now you'd be long gone,
-I'd stand up and punch them out, cuz they're all wrong and,
-that last kiss; I'll cherish, until we meet again...
-And time makes it harder, I wish I could remember...
-But I keep your memory, you visit me in my sleep,
-my darlin'...Who knew?
+ [Chorus]
+      C            D                    Em               G
+ When someone said count your blessings now, for they're long gone,
+   C            D           Em         G
+ I guess I just didn't know how, I was all wrong.
+C          D     Em          G
+ They knew better, still you said forever,
+C        D
+ and ever...Who knew?
 
-{c: Intro riff outtro}
-My darlin', my darlin'...Who knew?
-Darling, I miss you...my darlin'...Who knew?
-Who knew...
+ G    G*    G     G*
+
+ [Bridge]
+Am             Em                D
+ I'll keep you locked in my head, until we meet again...
+G       G*          G         G*
+          Until we...Until we meet again...
+Am              Em  
+ And I won't forget you my friend,
+D
+ what happened?
+
+ [Chorus]
+    C            D                Em            G
+ If someone said three years from now you'd be long gone,
+     C            D           Em              G
+ I'd stand up and punch them out, cuz they're all wrong and,
+C               D            Em         G
+ that last kiss; I'll cherish, until we meet again...
+C              D         Em         G 
+ And time makes it harder, I wish I could remember...
+C          D           Em          G
+ But I keep your memory, you visit me in my sleep,
+C           D
+ my darlin'...Who knew?
+
+
+G    G*          G          G*
+      My darlin', my darlin'...Who knew?
+G      G*             G          G*
+ Darling, I miss you...my darlin'...Who knew?
+
+G    G*    G     G*           G
+                   Who knew...

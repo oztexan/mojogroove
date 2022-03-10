@@ -1,22 +1,7 @@
 {t:Big Jet Plane}
+{ipodid: 7784966281146114002}
 {a:Angus & Julia Stone}
 
-{c: Intro Violin}
-[Em][B][G]
-[Em][D][B]
-
-{c: Chorus Violin}
-[C]/[B] Pedal
-
-{c: Intro Gtr:}
-{sot}
-E|-------------------------------
-B|-------------------------------
-G|-12-9-12-------12-9-12---------
-D|---------12-10---------9-10----
-A|-------------------------------
-E|-------------------------------
-{eot}
 
 {c: Verse & Chorus}
 [C][Am][Em]
@@ -27,9 +12,9 @@ E|-------------------------------
 She said, [C]hello mister, [Am]Pleased to meet ya[Em]
 [C]I want to hold her,  [Am]I want to kiss her,[Em]
 [C]She smell the daisy, [Am]She smell the daisy,[Em]
-][C]She drive me crazy, [Am]She drive me crazy[Em][G]
+[C]She drive me crazy, [Am]She drive me crazy[Em][G]
 
-Chorus:
+{c:Chorus}
 [C]Gonna take her for a [Am]ride on a big jet [Em]plane
 [C]Gonna take her for a [Am]ride on a big jet [Em]plane [G]
 [C] [Am] [Em]
@@ -61,3 +46,21 @@ Yeah, hey
 
 [C] [Am] [Em]..
 Yeah, hey  X3
+
+
+{c: Intro Violin}
+[Em][B][G]
+[Em][D][B]
+
+{c: Chorus Violin}
+[C]/[B] Pedal
+
+{c: Intro Gtr:}
+{sot}
+E|-------------------------------
+B|-------------------------------
+G|-12-9-12-------12-9-12---------
+D|---------12-10---------9-10----
+A|-------------------------------
+E|-------------------------------
+{eot}

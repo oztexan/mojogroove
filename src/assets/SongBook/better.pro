@@ -1,47 +1,55 @@
 {t: Better}
+{ipodid: 7784966281146108276}
 {a: Screaming Jets}
 
 Intro Drums
 
-Intro & Verse
-{sot}
-E|-------------------------------
-B|-5-5-5--2-2-2--0-0-0--2-2-2-----
-G|--2---2--2---2--2---2--2--------
-D|-------------------------------
-A|-------------------------------
-E|-------------------------------
-
-{eot}
-
-
+{c:Intro & Verse}
+[E]
 Still didn't know what happened when you knocked upon my door
 The things you had and the life you lead are all dreams you had before
 Your eyes your face your heart and soul you know they said it all
 What happened on that day back then, the moment hurt us all
 
-Bridge: [A] [G] [F#]
+{c:Bridge}
+: [E] [D] [C#]
 
-Pre-Chorus [F#] [A] [D] [E] 
+{c:Pre-Chorus}
+ [C#] [E] [A] [B] 
 Now you see the reason why not everyone's the same
 You don't have to please them, or try hard to say your name
 
-Chorus
-[A]Say you'll never get anywhere 
-[C]they don't care its just not fair                                           [G]You know an I know [A]better
+{c:Chorus}
+[E]Say you'll never get anywhere 
+[G]they don't care its just not fair
+[D]You know and I know [E]better
 
-[A]Say you'll never get anywhere 
-[C]they don't care its just not fair                                           [G]You know an I know [A]better... yes I do
+[E]Say you'll never get anywhere 
+[G]they don't care its just not fair
+[D]You know an I know [E]better... yes I do
 
-Verse 2: 
+{c:Verse 2:} 
 Well the weeks go by and you wonder why is this really true
 Your heart says no but your feelings show the whole thing had left you
 You and I we knew deep down that aint really you
 We always knew that it would work out right and we can start anew
 
-Repeat Pre & Chorus:
+{c:Pre-Chorus}
+ [C#] [E] [A] [B] 
+Now you see the reason why not everyone's the same
+You don't have to please them, or try hard to say your name
 
-Interlude [A] hold through out (harmonics)
+{c:Chorus}
+[E]Say you'll never get anywhere 
+[G]they don't care its just not fair
+[D]You know and I know [E]better
+
+[E]Say you'll never get anywhere 
+[G]they don't care its just not fair
+[D]You know an I know [E]better... yes I do
+
+{c:Interlude}
+[E]
 Well Things aint always what they seem
 so wake up man get outta your dream
 Things aint always what they seem so wake up
@@ -50,21 +58,29 @@ wake up man you're in my dream
 Things aint always......
 
 
-Pre Chorus (Band In)
+{c:Pre Chorus (Band In)}
 Now you see the reason why not everyone's the same
 You don't have to reason I'm trying hard..........
 
-Chorus
+{c:Chorus}
 Say you'll never get anywhere, they don't care its just not fair
 You know and I know better
 Said you never get anywhere, well they don't care its just not fair
 You know and I know better
 
-1 Chorus line no instruments
+{c:Chorus no instrumentd}
+Say you'll never get anywhere, they don't care its just not fair
+You know and I know better
+Said you never get anywhere, well they don't care its just not fair
+You know and I know better
 
-2 Chorus full band again with Solo
+{c:Chorus}
+Say you'll never get anywhere, they don't care its just not fair
+You know and I know better
+Said you never get anywhere, well they don't care its just not fair
+You know and I know better
 
-OUTRO (Single Strums)
+{c:OUTRO (Single Strums)}
 Say you'll never get anywhere, they don't care its just not fair
 You know an I know better
 
@@ -82,6 +98,17 @@ That you know and I know better
 
 
 {sot}
+
+{sot}
+E|-------------------------------
+B|-5-5-5--2-2-2--0-0-0--2-2-2-----
+G|--2---2--2---2--2---2--2--------
+D|-------------------------------
+A|-------------------------------
+E|-------------------------------
+
+{eot}
+
 Intro Guitar Bit:
 |-------------------------------------------|
 |--5--5--5----------------------------------|
