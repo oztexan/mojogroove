@@ -48,7 +48,7 @@ const lexer = moo.states({
       value: () => '',
     },
     chord: {
-      match: /(?:[A-Ga-g])(?:#|[bB])?\d*(?:[dD][iI][mM]|[mM][aA][jJ]|[sS][uU][sS]|[aA][uU][gG]|[mM])?\d*(?:\/(?:[A-Ga-g](?:#|[bB])?)?)?[ t\n]/,
+      match: /(?:[A-Ga-g])(?:#|[bB])?\d*(?:[aA][dD][dD]|[mM][iI][nN]|[dD][iI][mM]|[mM][aA][jJ]|[sS][uU][sS]|[aA][uU][gG]|[mM])?\d*(?:\/(?:[A-Ga-g](?:#|[bB])?)?)?[ t\n]/,
       lineBreaks: true,
       value: x => x.trim()
     },
