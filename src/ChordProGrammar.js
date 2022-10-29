@@ -181,11 +181,11 @@ const lexer = moo.states({
     myError: moo.error,
     chord: {
       match: /[^\]\n]+/,
-      //    match: /(?:[A-Ga-g])(?:#|[bB])?(?:[dD][iI][mM]|[mM][aA][jJ]|[sS][uU][sS]|[mM])?\d*(?:\/[A-Ga-g][#|[bB]]?)?/,
+      //    match: /c/,
       value: x => x.trim()
     },
     /*      nashville: {
-          match: /(?:[A-Ga-g])(?:#|[bB])?(?:[mM]|[dD][iI][mM]|[mM][aA][jJ]|[sS][uU][sS])?\d*(?:\/[A-Ga-g][#|[bB]]?)/,
+          match: /(?:[A-Ga-g])(?:#|[bB])?(?:[mM]|[dD][iI][mM]|[aA][dD][dD]|[mM][aA][jJ]|[sS][uU][sS])?\d*(?:\/[A-Ga-g][#|[bB]]?)/,
           value: x => x.trim()
         },
     */
