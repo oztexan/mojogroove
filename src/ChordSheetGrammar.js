@@ -12,7 +12,7 @@ const lexer = moo.states({
   main: {
     myError: moo.error,
     /*    chord_line: {
-        match: /(?:\s*(?:[A-Ga-g])(?:#|[bB])?(?:[dD][iI][mM]|[mM][aA][jJ]|[sS][uU][sS]|[mM])?\d*(?:\/[A-Ga-g][#|[bB]]?)?\s*)+/,
+        match: /(?:\s*(?:[A-Ga-g])(?:#|[bB])?(?:[mM][iI][nN]|[aA][dD][dD]|[dD][iI][mM]|[mM][aA][jJ]|[sS][uU][sS]|[mM])?\d*(?:\/[A-Ga-g][#|[bB]]?)?\s*)+/,
           value: x => x.trim()
         },*/
     empty_line: {
@@ -29,7 +29,7 @@ const lexer = moo.states({
     // Because "A" is also a word
     chord_apair: {
       //      match: /^\s*[Aa]\s+(?=(?:[A-Ga-g])(?:#|[bB])?\d*s(?:[dD][iI][mM]|[mM][aA][jJ]|[sS][uU][sS]|[mM])?\d*(?:\/(?:[A-Ga-g](?:#|[bB])?)?)?\s+)+/,
-      match: /(?:^\s*[Aa]\s+)(?:\s*(?:[A-Ga-g])(?:#|[bB])?(?:[dD][iI][mM]|[mM][aA][jJ]|[sS][uU][sS]|[aA][uU][gG]|[mM])?\d*(?:\/[A-Ga-g][#|[bB]]?)?\s*)/,
+      match: /(?:^\s*[Aa]\s+)(?:\s*(?:[A-Ga-g])(?:#|[bB])?(?:[aA][dD][dD]|[mM][iI][nN]|[dD][iI][mM]|[mM][aA][jJ]|[sS][uU][sS]|[aA][uU][gG]|[mM])?\d*(?:\/[A-Ga-g][#|[bB]]?)?\s*)/,
       lineBreaks: true,
       value: x => x.trim()
     },
